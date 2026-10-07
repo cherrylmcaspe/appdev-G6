@@ -1,1 +1,1 @@
-# appdev-G6
+This is my first GitHub activity.
